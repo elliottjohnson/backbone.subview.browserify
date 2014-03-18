@@ -1,0 +1,18 @@
+{
+	"name": "backbone.subviews.browserify",
+	"version": "0.0.0",
+	"description": "A GO/NOGO test for backbone.subviews ability to load via browserify.",
+	"main": "main.js",
+	"repository": {
+		"type" : "git",
+		"url" : ""
+	},
+	"dependencies": {
+		"backbone.subviews": "*",
+		"jquery": "*"
+	},
+	"author": {
+		"name" : "Elliott Johnson"
+	},
+	"license": "MIT"
+}
