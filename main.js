@@ -9,4 +9,4 @@ function subviewsTest () {
 		$( "#results" ).html( "fail" );
 }
 
-$( document ).ready( function () { subviewsTest( Backbone ); } );
+$( document ).ready( subviewsTest );

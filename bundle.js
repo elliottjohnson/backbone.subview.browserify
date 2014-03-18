@@ -10,7 +10,7 @@ function subviewsTest () {
 		$( "#results" ).html( "fail" );
 }
 
-$( document ).ready( function () { subviewsTest( Backbone ); } );
+$( document ).ready( subviewsTest );
 
 },{"./node_modules/backbone.subviews/backbone.subviews.js":2,"backbone":3,"jquery":4}],2:[function(require,module,exports){
 /*
